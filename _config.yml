@@ -86,9 +86,6 @@ author:
   location         : "Hang Zhou, China"
   employer         :
   pubmed           :
-  googlescholar    :
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,19 +100,22 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0005-6691-7908"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : Zijing_Cai_
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-
+  googlescholar: "https://scholar.google.com/citations?user=m-_Wth8AAAAJ"
+  email: "aaron.zijingcai@gmail.com"
+  researchgate:  # example: "https://www.researchgate.net/profile/yourprofile"
+  semanticscholar  : "https://www.semanticscholar.org/author/2116150120"
 
 # Reading Files
 include:
