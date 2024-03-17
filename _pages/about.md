@@ -9,19 +9,38 @@ redirect_from:
 ---
 
 <!-- ## About me -->
-<br>
-I am a 4th year B.S. student at the Zhejiang Gongshang University of Computer Science and Technology. My interest including data ming, natural language processing and sentiment analysis.
+<br>Hi! I am a final-year(senior) undergrad majoring in Computer Science and Technology at Zhejiang Gongshang University  . Supervised by [Prof.Hua Zhang](https://scie.zjgsu.edu.cn/zh-hans/node/381), I am working on Natural Language Processing Research Group.
+
+I am also open to other topics. Free free to reach out if you would like to chat!
 
 (This webpage was last updated on **Mar 2024**)
 
 ## Research Interests
-* **Instruction Tuning of Large Language Models**, especially on enhancing and evaluating the capability of language models to comprehend and execute complex instructions accurately.
-* **Contrastive Learning in NLP**, focusing on leveraging contrastive learning to enhance the quality of embeddings and to enable more nuanced and context-aware language model performances.
-* **Sentiment Analysis**, concentrating on the application of computational methods to understand the structure and dynamics of conversations, and how various linguistic features influence discourse in different contexts.
+* **Pre-trained Language Model**, investigating how to leverage the rich prior knowledge in pre-trained language models to accomplish general tasks, with a particular focus on machine reading comprehension and prompt-based learning frameworks.
+* **Contrastive Learning**, focusing on leveraging contrastive learning to enhance the quality of embeddings and to enable more nuanced and context-aware language model performances.
+* **Dual Learning**, utilizing the primal-dual structure between machine learning tasks to obtain effective feedback/regularization, guiding and reinforcing the learning process, thereby reducing the requirements for large-scale learning.
 
 ## Education
-* **Zhejiang Gongshang University [(ZJGSU)](https://www.zjgsu.edu.cn/)**
-  * B.S. in [Computer Science and Technology](https://scie.zjgsu.edu.cn/),  *Sep. 2020 -- Jul. 2024*
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
+    <tbody>
+
+        <tr>
+            <td style="padding:8px;width:30%;vertical-align:middle;border:none;"> 
+                <img src="images/edu-zjgsu.png" width="220">
+            </td>
+            
+            <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
+                <b><a href="http://www.zjgsu.edu.cn/">Zhejiang Gongshang University</a></b>
+                <br>
+                B.S. in <a href="https://scie.zjgsu.edu.cn/">Computer Science and Technology</a>
+                <br>
+                Sep. 2020 -- Jul. 2024 (Expected)
+            </td>            
+        </tr>
+        
+    </tbody>
+</table>
 
 ## Awards
 * [_2022_] Second prize of China University Software Service Outsourcing Award (Top 2%)
@@ -32,8 +51,8 @@ I am a 4th year B.S. student at the Zhejiang Gongshang University of Computer Sc
 * **
 
 ## Academic Service
-* Conference Reviewer: **.
-* Conference External Reviewer: **.
+* Conference Reviewer:🦀🦐
+* Conference External Reviewer:🦀 🦐
 
 ## Sitemap
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=288&t=m&d=2ljZF6KFfkxp4wxQ6pxUE1Dq5gPitQBApoOxIIRgnkU'></script>

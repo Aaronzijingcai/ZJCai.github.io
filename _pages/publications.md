@@ -21,7 +21,7 @@ Hua Zhang, Yongjian Yan, <span style="color:darkblue">**Zijing Cai**</span>, Pei
 <a class="github-button" href="" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">MRC-D3AE</a>
 - **FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models**\
 Hua Zhang, Peiqian Zhan, Cheng Yang, Yongjian Yan, <span style="color:darkblue">**Zijing Cai**</span>, Guogen Shan, Bo Jiang, Bi Chen. \
-*Arxiv Preprint*, 2024. [[pdf]]() [[bibtex]()]
+*To be submitted*, 2024. [[pdf]]() [[bibtex]()]
 <a class="github-button" href="" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">RCFIND</a>
 
 
@@ -30,8 +30,6 @@ Hua Zhang, Peiqian Zhan, Cheng Yang, Yongjian Yan, <span style="color:darkblue">
 
 ## Journal
 - 🏝️
-
-
 
 ## Workshop
 - 🏝️
