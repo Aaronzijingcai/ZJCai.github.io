@@ -5,16 +5,8 @@ permalink: /misc/
 author_profile: true
 ---
 
-photography, writing, and cooking are my passions that enrich my life in remarkable ways. 
+In addition to academic research, I am passionate about photography and cooking. 
 
-Photography enables me to capture beautiful moments in life.
+Photography allows me to observe the world through the lens, capturing natural landscapes and human emotions, while cooking is one of my ways to release stress and cultivate creativity. ![](../images/photograpy.jpg)
 
-![](../images/photograpy.jpg)
-
-Writing allows me to express my emotions and thoughts.
-
-![](../images/writing.png)
-
-As for cooking, it serves as a culinary art form that allows me to show love and care to my family and friends through food. 
-
-These hobbies not only bring me joy and fulfillment but also inspire my pursuit of diversity and creativity, shaping my academic and professional endeavors.
+These hobbies not only provide me with balance and enjoyment but also influence and enrich my academic work, injecting new inspiration and perspectives.
