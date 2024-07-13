@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 <!-- ## About me -->
-<br>Hi! I am a final-year(senior) undergrad majoring in Computer Science and Technology at Zhejiang Gongshang University. Supervised by [Prof. Hua Zhang](https://scie.zjgsu.edu.cn/zh-hans/node/381), I am working on Natural Language Processing Research Group.
+<br>Hi! I am Zijing Cai. Previously, I received a B.S. in Computer Science and Technology(advised by [Prof. Hua Zhang](https://scie.zjgsu.edu.cn/zh-hans/node/381)) from the Zhejiang Gongshang University in 2024.
 
 I am also open to other topics. Feel free to reach out if you would like to chat!
 
-(This webpage was last updated on **Apr. 2024**)
+(This webpage was last updated on **Jul. 2024**)
 
 ## Research Interests
 * **Pre-trained Language Model**, investigating how to leverage the rich prior knowledge in pre-trained language models to accomplish general tasks, with a particular focus on machine reading comprehension and prompt-based learning frameworks.
@@ -35,7 +35,7 @@ I am also open to other topics. Feel free to reach out if you would like to chat
                 <br>
                 B.S. in <a href="https://scie.zjgsu.edu.cn/">Computer Science and Technology</a>
                 <br>
-                Sep. 2020 -- Jul. 2024 (Expected)
+                Sep. 2020 -- Jul. 2024
             </td>            
         </tr>
         
@@ -47,10 +47,6 @@ I am also open to other topics. Feel free to reach out if you would like to chat
 * [_2022_] Zhejiang Provincial Government Scholarship (Top 5%)
 * [_2022_] Excellent Student at Zhejiang Gongshang University (Top 8%)
 
-## Academic Service
-
-* Conference Reviewer:🦐🦀
-* Conference External Reviewer:🦐🦀 
 
 ## Sitemap
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=406&t=n&d=agXuytwaVAdo2VIdVoUuUqQzAzcCxT1HfNom5U8dslQ&co=c7e2e4&ct=ffffff&cmo=488b87&cmn=bd514a'></script>
